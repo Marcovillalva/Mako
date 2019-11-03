@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class TemplateBlog extends Component {
+class TemplateContact extends Component {
     render() {
         return (
             <div>
-                Template BLOG
+                Template CONTACT
             </div>
         );
     }
 }
 
-export default TemplateBlog;
+export default TemplateContact;

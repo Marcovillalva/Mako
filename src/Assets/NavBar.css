@@ -1,0 +1,13 @@
+.NavBarWraper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  background-color: #f45905;
+  color: whitesmoke; }
+
+.NavBarWraper ul li {
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: flex-start; }
