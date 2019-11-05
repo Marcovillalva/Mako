@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class TemplateHome extends Component {
     render() {
         return (
-            <div>
+            <div className="MainCont-Home">
                 Template HOME
             </div>
         );

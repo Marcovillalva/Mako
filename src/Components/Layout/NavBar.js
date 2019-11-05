@@ -19,8 +19,7 @@ class NavBar extends Component {
                     <li>
                         <Link to="/PageContact">Contact</Link>
                     </li>
- 
-                    </ul>
+                </ul>
             </div>
         );
     }
